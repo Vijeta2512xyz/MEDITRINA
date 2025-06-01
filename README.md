@@ -3,19 +3,19 @@ MEDITRINA is an AI-based healthcare web application that provides predictive dia
 
 
 Features
- Symptom-Based Diagnosis: Users input symptoms via chatbot/form and receive possible condition predictions.
+1. Symptom-Based Diagnosis: Users input symptoms via chatbot/form and receive possible condition predictions.
 
- Natural Remedies: Personalized, holistic home remedies provided for common health issues.
+2. Natural Remedies: Personalized, holistic home remedies provided for common health issues.
 
- Preventive Tips: Suggestions to prevent recurrence of illnesses.
+3. Preventive Tips: Suggestions to prevent recurrence of illnesses.
 
- Multilingual Support: Accessible in various languages for broader reach.
+4. Multilingual Support: Accessible in various languages for broader reach.
 
- AI-Driven Workflow: Simulated logic to demonstrate AI-based analysis using user symptoms.
+5. AI-Driven Workflow: Simulated logic to demonstrate AI-based analysis using user symptoms.
 
- Health Blog: Informative articles on immunity, lifestyle, and AI in healthcare.
+6. Health Blog: Informative articles on immunity, lifestyle, and AI in healthcare.
 
- Testimonials: Realistic reviews from mock users to establish trust.
+7. Testimonials: Realistic reviews from mock users to establish trust.
 
 
  Built With
@@ -46,9 +46,13 @@ Add chatbot functionality using OpenAI/Gemini APIs
 
 Expand to include voice input and multilingual NLP
 
+ 
+ 
  Author
 Vijeta Vadehi Bandha 
 Frontend Developer | AI Enthusiast | HealthTech Explorer
+
+
 
 1. Navbar
 
